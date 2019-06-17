@@ -2,7 +2,7 @@
 apply plugin: 'com.moowork.node'
 
 node {
-  version = '10.16.0'
+  version = '6.17.1'
   download = false
 }
 
