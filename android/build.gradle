@@ -2,7 +2,7 @@
 apply plugin: "org.ysb33r.nodejs.base"
 
 nodejs {
-    executable version: '6.17.1'
+    executable path: '/usr/local/bin/node'
 }
 
 buildscript {
